@@ -58,11 +58,11 @@ details.
 # Example Output
 
 ```
-$ g++ Assignment06.cpp
+$ g++ bfm_main.cpp
 $ ./a.out
 ```
 ```
-Enter input file: A6Input01.txt
+Enter input file: bfm_input1.txt
 ```
 ```
 Case 1: Jonas Tom
@@ -74,7 +74,7 @@ Case 4: RumpleStilkn Brawndo Cartman
 $ ./a.out
 ```
 ```
-Enter input file: MoreInputAssignment6.txt
+Enter input file: bfm-input2.txt
 ```
 ```
 Case 1: Phoenix Aaron Brian Rob Justin
