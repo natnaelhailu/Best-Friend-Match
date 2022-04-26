@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////
 // Description: This program take an initial name from the user
 //              and matches the characters with a given set of names
-//			    to determine the names with the most characters in 
+//              to determine the names with the most characters in 
 //              common with the initial name. It uses a custom hashmap 
 //              class to implement the character matching.
 //
